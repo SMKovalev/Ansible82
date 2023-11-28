@@ -17,3 +17,4 @@ ansible-playbook -i inventory/prod.yml site.yml
 ## Result
 
 ![img.png](img.png)
+
